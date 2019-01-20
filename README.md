@@ -1,6 +1,9 @@
 ## PGA Leader Board Project
 
+View the live demo [here](https://dtsnell4.github.io/Leader-Board/).
+
 **Notes:**
+* React components are seperated into two direcotries, "containers" for the stateful components, and "components" for the stateless/presentational components. 
 * Added a "Loading" message while the app looks for any saved data.  If none is found it will display an empty state message. 
 * The same modal is used for adding/editing.  The edit feature only allows editing the score (mainly for demonstration purposes, though I doubt players change their names in the middle of a tournament).
 * Players are saved to localStorage for convenience.
