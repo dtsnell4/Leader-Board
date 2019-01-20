@@ -1,6 +1,6 @@
 ## PGA Leader Board Project
 
-##Demo
+## Demo
 View the live demo [here](https://dtsnell4.github.io/Leader-Board/).
 
 **Notes:**
